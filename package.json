@@ -1,0 +1,23 @@
+{
+  "name": "recruitment",
+  "version": "1.0.0",
+  "description": "Shows a list of IP addresses viewing the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawarvijay/recruitment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawarvijay/recruitment/issues"
+  },
+  "homepage": "https://github.com/pawarvijay/recruitment#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
