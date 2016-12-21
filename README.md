@@ -2,6 +2,13 @@
 
 Shows a list of IP addresses viewing the page
 
+## How To Use
+1. In recruitment folder from terminal do `npm Install`
+
+2. Change Ip Address to local ip in app.jsx file in public folder
+
+3. Temporarily Hosted at 139.59.41.50:3000
+
 ## Requirements
 
 Create a single-page web app that:
